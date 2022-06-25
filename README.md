@@ -18,7 +18,7 @@ it's free for *personal use*<BR>
     TechniWAN something triggers the IP-change
     Dropping any file on TechniWAN icon triggers the IP-change
      example:
-    C:\Users\uomoukko\Desktop>TechniWAN -uuser -ppassword -R192.168.1.1
+    C:\Users\Myname\Desktop>TechniWAN -uuser -ppassword -R192.168.1.1
     
 ## Uses
     SRP modem authentication
