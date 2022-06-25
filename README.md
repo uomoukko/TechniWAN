@@ -7,7 +7,7 @@
     Technicolor DGA4130
     
 ## Getting started
-    Get the exe file pushing the [RELEASE](https://github.com/uomoukko/TechniWAN/releases/) button
+Get the last release pushing the [RELEASE](https://github.com/uomoukko/TechniWAN/releases/) button
 
 # Prerequisites
     Windows operating system  
