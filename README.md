@@ -8,6 +8,7 @@
     
 ## Getting started
 Get the last release pushing the [RELEASE](https://github.com/uomoukko/TechniWAN/releases/) button
+(it's free for *personal use*)
 
 # Prerequisites
     Windows operating system  
