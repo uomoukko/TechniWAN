@@ -7,7 +7,7 @@
     Technicolor DGA4130
     
 ## Getting started
-Get the last release pushing the [RELEASE](https://github.com/uomoukko/TechniWAN/releases/) button\
+Get the last release pushing the [RELEASE](https://github.com/uomoukko/TechniWAN/releases/) button<BR>
 it's free for *personal use*
 
 # Prerequisites
