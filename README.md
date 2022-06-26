@@ -14,15 +14,16 @@ or just click [here](https://github.com/uomoukko/TechniWAN/releases/). It's free
 Windows operating system only<BR>  
 
 ## Running the executables
- desktop mode:<BR>
+ **desktop mode:**<BR>
 Double clicking the Techniwan icon shows the current IP<BR>
 Dropping any file on TechniWAN icon triggers the IP-change<BR>
- cmd mode:<BR>
+    
+ **cmd mode:**<BR>
 C:\Users\Myname\Desktop>**TechniWAN** *shows the current IP*<BR>
 C:\Users\Myname\Desktop>**TechniWAN** anything *triggers the IP-change*<BR>
 
-other options (cmd mode):<BR>
- C:\Users\Myname\Desktop>**TechniWAN** -uuser -ppassword -R192.168.1.1<BR>
+ **other options (cmd mode):**<BR>
+C:\Users\Myname\Desktop>**TechniWAN** -uuser -ppassword -R192.168.1.1<BR>
     
 ## Uses
 SRP modem authentication<BR>
