@@ -15,9 +15,10 @@ Windows operating system only<BR>
 
 ## Running the executables
  **desktop mode:**<BR>
-Double clicking the Techniwan icon shows the current IP<BR>
-Dropping any file on TechniWAN icon triggers the IP-change<BR>
-    
+Double clicking the TechniWAN icon *shows the current IP*<BR>
+Dropping any file on TechniWAN icon *triggers the IP-change*<BR>
+*(press PAUSE to block countdown to window close)*
+
  **cmd mode:**<BR>
 C:\Users\Myname\Desktop>**TechniWAN** *shows the current IP*<BR>
 C:\Users\Myname\Desktop>**TechniWAN** anything *triggers the IP-change*<BR>
