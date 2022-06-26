@@ -14,10 +14,14 @@ or just click [here](https://github.com/uomoukko/TechniWAN/releases/). It's free
 Windows operating system only<BR>  
 
 ## Running the executables
-**TechniWAN** shows the current IP<BR>
-**TechniWAN** something triggers the IP-change<BR>
+ desktop mode:<BR>
+Double clicking the Techniwan icon shows the current IP<BR>
 Dropping any file on TechniWAN icon triggers the IP-change<BR>
-example:<BR>
+ cmd mode:<BR>
+C:\Users\Myname\Desktop>**TechniWAN** shows the current IP<BR>
+C:\Users\Myname\Desktop>**TechniWAN** something triggers the IP-change<BR>
+
+other options (cmd mode):<BR>
  C:\Users\Myname\Desktop>**TechniWAN** -uuser -ppassword -R192.168.1.1<BR>
     
 ## Uses
