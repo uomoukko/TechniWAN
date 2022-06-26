@@ -27,4 +27,4 @@ SRP modem authentication<BR>
 Windows mingw-w64 gcc (10.3.0)<BR>
 
 ## Bugs
-    Please contact me for bugs/improvements
+Please contact me for bugs/improvements<BR>
