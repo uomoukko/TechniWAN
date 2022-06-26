@@ -24,7 +24,7 @@ example:<BR>
 SRP modem authentication<BR>
 
 ## Built with
-Windows mingw-w64 gcc (10.7.1)<BR>
+Windows mingw-w64 gcc (10.3.0)<BR>
 
 ## Bugs
     Please contact me for bugs/improvements
