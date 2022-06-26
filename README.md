@@ -18,8 +18,8 @@ Windows operating system only<BR>
 Double clicking the Techniwan icon shows the current IP<BR>
 Dropping any file on TechniWAN icon triggers the IP-change<BR>
  cmd mode:<BR>
-C:\Users\Myname\Desktop>**TechniWAN** shows the current IP<BR>
-C:\Users\Myname\Desktop>**TechniWAN** something triggers the IP-change<BR>
+C:\Users\Myname\Desktop>**TechniWAN** *shows the current IP*<BR>
+C:\Users\Myname\Desktop>**TechniWAN** anything *triggers the IP-change*<BR>
 
 other options (cmd mode):<BR>
  C:\Users\Myname\Desktop>**TechniWAN** -uuser -ppassword -R192.168.1.1<BR>
