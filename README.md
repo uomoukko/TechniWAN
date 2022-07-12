@@ -20,12 +20,12 @@ Dropping any file on TechniWAN icon *triggers the IP-change*<BR>
 *(press PAUSE to block countdown to window close)*
 
  **cmd mode:**<BR>
-C:\Users\Myname\Desktop>**TechniWAN** *shows the current IP*<BR>
-C:\Users\Myname\Desktop>**TechniWAN** anything *triggers the IP-change*<BR>
+C:\Users\Myname\Desktop>**TechniWAN**       *shows the current IP*<BR>
+C:\Users\Myname\Desktop>**TechniWAN** anything      *triggers the IP-change*<BR>
 
  **other options (cmd mode):**<BR>
-C:\Users\Myname\Desktop>**TechniWAN** -uuser -ppassword -R192.168.1.1<BR>
-C:\Users\Myname\Desktop>**TechniWAN** -x0 anything *triggers the IP-change with no delay<BR> 
+C:\Users\Myname\Desktop>**TechniWAN** -uuser -ppassword -R192.168.1.1       *sets different user and password* <BR>
+C:\Users\Myname\Desktop>**TechniWAN** -x0 anything      *triggers the IP-change with no delay*<BR> 
 
 ## Uses
 SRP modem autentication (not easy)<BR>
