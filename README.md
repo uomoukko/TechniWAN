@@ -27,10 +27,9 @@ C:\Users\Myname\Desktop>**TechniWAN** anything<BR>
 
  **other options (cmd mode):**<BR>
 C:\Users\Myname\Desktop>**TechniWAN** -uuser -ppassword -R192.168.2.1<BR>
-    *sets different user,password,router*<BR>
-    *shows the current IP, doesn't change it*<BR>
+    *sets user,password,router / shows the current IP, doesn't change it*<BR>
 C:\Users\Myname\Desktop>**TechniWAN** -x0 anything<BR>
-    *triggers the IP-change with no delay*<BR> 
+    *triggers the IP-change with no countdown*<BR> 
 
 ## Uses
 SRP modem autentication (not easy)<BR>
