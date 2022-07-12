@@ -32,7 +32,7 @@ C:\Users\Myname\Desktop>**TechniWAN** -x0 anything<BR>
     *triggers the IP-change with no countdown*<BR> 
 
 ## Uses
-SRP modem autentication (not easy)<BR>
+SRP modem autentication<BR>
 
 ## Built with
 tdm-gcc (10.3.0)<BR>
