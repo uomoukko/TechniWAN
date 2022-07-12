@@ -1,7 +1,7 @@
 # TechniWAN
 ![tewan.png](tewan.png)
 
-## A quick and easy Windows program to change WAN IP on Technicolor modems
+## A small Windows program to quickly change WAN IP on Technicolor modems
 Actually tested on:<BR>
 Technicolor DGA4331<BR>
 Technicolor DGA4130<BR>
@@ -25,12 +25,13 @@ C:\Users\Myname\Desktop>**TechniWAN** anything *triggers the IP-change*<BR>
 
  **other options (cmd mode):**<BR>
 C:\Users\Myname\Desktop>**TechniWAN** -uuser -ppassword -R192.168.1.1<BR>
-    
+C:\Users\Myname\Desktop>**TechniWAN** -x0 anything *triggers the IP-change with no delay<BR> 
+
 ## Uses
-SRP modem authentication<BR>
+SRP modem autentication (not easy)<BR>
 
 ## Built with
-Windows mingw-w64 gcc (10.3.0)<BR>
+tdm-gcc (10.3.0)<BR>
 
 ## Bugs
 Please contact me for bugs/improvements<BR>
