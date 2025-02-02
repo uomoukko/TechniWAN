@@ -30,15 +30,18 @@ Dropping any file on TechniWAN icon *triggers the IP-change*<BR>
  **cmd mode:**<BR>
 C:\Users\Myname\Desktop>**TechniWAN**<BR>
     *shows the current IP, doesn't change it*<BR>
+    
 C:\Users\Myname\Desktop>**TechniWAN** anything<BR>
     *triggers the IP-change*<BR>
 
  **other options (cmd mode):**<BR>
 C:\Users\Myname\Desktop>**TechniWAN** -uuser -ppassword
     *sets user, password and saves in register*<BR>
-C:\Users\Myname\Desktop>**TechniWAN**  -R192.168.2.1<BR>
+    
+C:\Users\Myname\Desktop>**TechniWAN**  -R192.168.2.1
     *sets router*<BR>
-C:\Users\Myname\Desktop>**TechniWAN** -x0 anything<BR>
+    
+C:\Users\Myname\Desktop>**TechniWAN** -x0 anything
     *triggers the IP-change with no countdown*<BR> 
 
 ## Uses
