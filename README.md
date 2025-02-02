@@ -35,13 +35,13 @@ C:\Users\Myname\Desktop>**TechniWAN** anything<BR>
     *triggers the IP-change*<BR>
 
  **other options (cmd mode):**<BR>
-C:\Users\Myname\Desktop>**TechniWAN** -uuser -ppassword
+C:\Users\Myname\Desktop>**TechniWAN** -uuser -ppassword<BR>
     *sets user, password and saves in register*<BR>
     
-C:\Users\Myname\Desktop>**TechniWAN**  -R192.168.2.1
+C:\Users\Myname\Desktop>**TechniWAN**  -R192.168.2.1<BR>
     *sets router*<BR>
     
-C:\Users\Myname\Desktop>**TechniWAN** -x0 anything
+C:\Users\Myname\Desktop>**TechniWAN** -x0 anything<BR>
     *triggers the IP-change with no countdown*<BR> 
 
 ## Uses
