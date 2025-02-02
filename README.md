@@ -35,7 +35,7 @@ C:\Users\Myname\Desktop>**TechniWAN** anything<BR>
 
  **other options (cmd mode):**<BR>
 C:\Users\Myname\Desktop>**TechniWAN** -uuser -ppassword
-    *sets user,password to save in register user,password*<BR>
+    *sets user, password and saves in register*<BR>
 C:\Users\Myname\Desktop>**TechniWAN**  -R192.168.2.1<BR>
     *sets router*<BR>
 C:\Users\Myname\Desktop>**TechniWAN** -x0 anything<BR>
